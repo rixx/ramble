@@ -12,8 +12,9 @@ main, header {
 }
 
 article {
-    max-width: 70ch;
-    margin: 0 20px 50px 20px;
+    width: 70ch;
+    max-width: 100%;
+    padding: 0 20px 50px 20px;
 }
 
 a {
@@ -26,4 +27,8 @@ pre {
     justify-content: center;
     line-height: 1.1;
     margin: 20px 0;
+}
+code {
+    overflow-x: scroll;
+    max-width: 100%;
 }
