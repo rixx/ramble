@@ -13,11 +13,17 @@ main, header {
 
 article {
     max-width: 70ch;
-    margin: 0 20px;
+    margin: 0 20px 50px 20px;
 }
 
 a {
     text-decoration: none;
     font-weight: bold;
     color: #404040;
+}
+pre {
+    display: flex;
+    justify-content: center;
+    line-height: 1.1;
+    margin: 20px 0;
 }
