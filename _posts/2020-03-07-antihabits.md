@@ -15,14 +15,16 @@ building reflexive actions is attractive in theory, and if that's an approach th
 for you.
 
 My brain abhors habits. Regularity seems like a tight leash, an unbearable imposition, to which I have a nearly physical
-reaction. I spent the last decade-and-then-some trying to overcome, circumvent, outsmart, or brutally suppress this
-aversion. I generally subscribe to the belief that I'm not special (nor are you, sorry), so if many clever people have
-worked out that a principle is solid, I'll believe that there's something to it.
+reaction. I've been writing against [hyperbolic language](/2020/03/05/your-hyperbolic-language-weirds-me-out.html), so
+please believe me that this is not hyperbole. I spent the last decade-and-then-some trying to overcome, circumvent,
+outsmart, or brutally suppress my aversion towards habits. I generally subscribe to the belief that I'm not special (nor
+are you, sorry), so if many clever people have worked out that a principle is solid, I'll believe that there's something
+to it.
 
-Ten years should serve as proof enough that this approach won't work in its current form. Instead, I'll try to embrace
-my desire for change and adventure and not feeling like a dead husk. To this end, I've written a tiny tool called
-[antihabits](https://antihabits.rixx.de) (online at [antihabits.rixx.de](https://antihabits.rixx.de)). It's a website²
-that will take a list of tasks, either recurring ones or ones only valid for the current day, and shuffle them.
+Ten years should serve as proof enough that this approach won't work in its current form. Instead, I'm currently trying
+to embrace my desire for change and adventure and not feeling like a dead husk. To this end, I've written a tiny tool
+called [antihabits](https://antihabits.rixx.de) (online at [antihabits.rixx.de](https://antihabits.rixx.de)). It's a
+website² that will take a list of tasks, either recurring ones or ones only valid for the current day, and shuffle them.
 
 …
 
