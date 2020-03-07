@@ -11,6 +11,7 @@
 # Good topics
 
 - [ ] Compare yourself to others
+- [ ] We run on agreements, contracts, and mandates
 - [ ] Hero culture vs Granny Weatherwax
 - [ ] Read books you disagree with
 - [ ] Live with yourself, you'll have to sooner or later
