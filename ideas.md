@@ -1,18 +1,16 @@
 # Draft next
 
-- [ ] Culture is intricate
-- [ ] Did the church follow corporate community building practices
-- [ ] What is Focusing (cf https://twitter.com/DRMacIver/status/1235837427282894849)
-- [ ] Religion vs organised religion, fite
-- [ ] Apologies
-- [ ] Compliments
 - [ ] People can smell fear, too
-- [ ] Intelligence
 
 # Good topics
 
 - [ ] Compare yourself to others
 - [ ] We run on agreements, contracts, and mandates
+- [ ] What is Focusing (cf https://twitter.com/DRMacIver/status/1235837427282894849)
+- [ ] Religion vs organised religion, fite
+- [ ] Apologies
+- [ ] Culture is intricate
+- [ ] Did the church follow corporate community building practices
 - [ ] Hero culture vs Granny Weatherwax
 - [ ] Read books you disagree with
 - [ ] Live with yourself, you'll have to sooner or later
@@ -33,6 +31,7 @@
 - [ ] replacing defensiveness with curiosity (too preachy?) for social interactions. gentle/kind/respectful though.
       needs prompts, like "what's your relationship with x", We know how fresh and original is each man, even the slowest and dullest. If we come at him right, talk him along, and give him his head, and at last say, What do you want? (Or if the man is very old, What did you want?) every man will speak his dream. And when a man talks from his heart, in his moment of truth, he speaks poetry. - Ray Bradbury
 - [ ] You are not special. I mean, you're special, but you fall on the bell curve.
+- [ ] no decisions when you're feeling like shit, or when you're feeling great
 
 # Needs more thought
 
@@ -52,3 +51,5 @@
 - [ ] reframe what people say to how their enemies would say it
 - [ ] what to do with imperfections
 - [ ] can you feel your judgement conforming (e.g. read blog post, note phrases and spelling, …)
+- [ ] Depression/anxiety can teach you a lot about project management
+- [ ] Intelligence
