@@ -1,6 +1,5 @@
 # Draft next
 
-- [ ] People can smell fear, too
 
 # Good topics
 
@@ -9,6 +8,7 @@
 - [ ] What is Focusing (cf https://twitter.com/DRMacIver/status/1235837427282894849)
 - [ ] Religion vs organised religion, fite
 - [ ] Apologies
+- [ ] not understanding people makes you more angry and more pessimistic
 - [ ] Culture is intricate
 - [ ] Did the church follow corporate community building practices
 - [ ] Hero culture vs Granny Weatherwax
