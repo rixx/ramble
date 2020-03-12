@@ -6,7 +6,6 @@
 
 # Good topics
 
-- [ ] Compare yourself to others. Accept the results. You are not special. I mean, you're special, but you fall on the bell curve.
 - [ ] We run on agreements, contracts, and mandates
 - [ ] What is Focusing (cf https://twitter.com/DRMacIver/status/1235837427282894849)
 - [ ] Religion vs organised religion, fite
@@ -33,6 +32,7 @@
 - [ ] Using anki for reflection / life things | spacy spaced repetition (reviewing emotions, goals, revelations)
 - [ ] replacing defensiveness with curiosity (too preachy?) for social interactions. gentle/kind/respectful though.
       needs prompts, like "what's your relationship with x", We know how fresh and original is each man, even the slowest and dullest. If we come at him right, talk him along, and give him his head, and at last say, What do you want? (Or if the man is very old, What did you want?) every man will speak his dream. And when a man talks from his heart, in his moment of truth, he speaks poetry. - Ray Bradbury
+      also works with yourself. don't scorn your feelings, interrogate them.
 - [ ] no decisions when you're feeling like shit, or when you're feeling great
 
 # Needs more thought
@@ -55,3 +55,5 @@
 - [ ] can you feel your judgement conforming (e.g. read blog post, note phrases and spelling, …)
 - [ ] Depression/anxiety can teach you a lot about project management
 - [ ] Intelligence
+- [ ] Niceness is a really good default way to interact with people. Most people respond very well to niceness, and those who don't have revealed themselves to be your enemies.
+- [ ] harsh criticism gets called “negativity,” but it isn’t. it’s hope, and it’s love. happy slappy optimism is the real negativity, because it operates under the assumption that things can’t get better. or shouldn’t.
