@@ -1,5 +1,6 @@
 # Draft next
 
+- [ ] People's reasons are valid, even when they are bad
 - [ ] Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
       dank, freude, …^
       Same as intervention vs assistance
