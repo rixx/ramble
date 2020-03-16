@@ -1,9 +1,6 @@
 # Draft next
 
-- [ ] People's reasons are valid, even when they are bad
-- [ ] Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
-      dank, freude, …^
-      Same as intervention vs assistance
+- [ ] Read books you disagree with
 
 # Good topics
 
@@ -15,7 +12,6 @@
 - [ ] Culture is intricate
 - [ ] Did the church follow corporate community building practices
 - [ ] Hero culture vs Granny Weatherwax
-- [ ] Read books you disagree with
 - [ ] Live with yourself, you'll have to sooner or later
 - [ ] non-static self / personas and context flux
 - [ ] conflict is good, if you go for needs & feelings instead of right or wrong
@@ -58,3 +54,7 @@
 - [ ] Intelligence
 - [ ] Niceness is a really good default way to interact with people. Most people respond very well to niceness, and those who don't have revealed themselves to be your enemies.
 - [ ] harsh criticism gets called “negativity,” but it isn’t. it’s hope, and it’s love. happy slappy optimism is the real negativity, because it operates under the assumption that things can’t get better. or shouldn’t.
+- [ ] People's reasons are valid, even when they are bad
+- [ ] Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
+      dank, freude, …^
+      Same as intervention vs assistance
