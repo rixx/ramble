@@ -42,7 +42,6 @@
 - [ ] condescension isn't worth it
 - [ ] dealing with people more clever than you
 - [ ] grades vs goodhart's law
-- [ ] triggers are good, kinda
 - [ ] all models are wrong, some are useful
 - [ ] seeing beauty evreywhere (and hen, poof, gone)
 - [ ] narrative poisoning (aggressive dad etc)
@@ -58,3 +57,12 @@
 - [ ] Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
       dank, freude, …^
       Same as intervention vs assistance
+- [ ] Can you have enlightenment/growth w/o breakdown? consequence: triggers are good, kinda
+- [ ] courage and being brave are somewhat central, maybe? you can practice courage. "I have no idea what you're talking
+      about". "Sorry, really not in the mood, going home". Not downplaying excitement
+- [ ] say "hell yes" or nah
+- [ ] be a good teachable moment
+- [ ] you can do anything for two minutes blah (-> security, deep dig efforts). And there are better ways than suffering
+      heroically – usually.
+- [ ] Communication strategies that don't account for assholes are everywhere. Same for system design and disasters. The
+      1% are worth to be considered.
