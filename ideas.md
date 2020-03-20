@@ -66,3 +66,4 @@
       heroically – usually.
 - [ ] Communication strategies that don't account for assholes are everywhere. Same for system design and disasters. The
       1% are worth to be considered.
+- [ ] How to virtue signal
