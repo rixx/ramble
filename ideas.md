@@ -68,3 +68,4 @@
 - [ ] How to virtue signal
 - [ ] Don't try to stop x, try to do y instead of x
 - [ ] Competition
+- [ ] anki stuff
