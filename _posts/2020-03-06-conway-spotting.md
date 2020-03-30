@@ -1,5 +1,6 @@
 ---
 layout: post
+summary: Try to guess organisational structures from the finished product.
 ---
 Do you know Conway's Law? Wikipedia cites it [thusly](https://en.wikipedia.org/wiki/Conway%27s_law):
 

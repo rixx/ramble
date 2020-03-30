@@ -1,5 +1,6 @@
 ---
 layout: post
+summary: Groups have bridging and bonding attributes. Learn to recognise unintended bonding.
 ---
 Groups of people are fascinating, and I expect I'll write a bunch more on the topic here. One interesting attribute of
 groups and communities is that they have **bridging** and **bonding** aspects.

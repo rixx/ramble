@@ -1,6 +1,7 @@
 ---
 layout: post
 title: People Can Smell Fear, Too
+summary: First impressions and gut feelings are informative. Pay attention!
 ---
 
 This is a video I like a lot: [People in Order: 1. Age](https://www.youtube.com/watch?v=INuC1fRD-a4) – it's only three

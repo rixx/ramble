@@ -1,5 +1,6 @@
 ---
 layout: post
+summary: If you suck at building habits, try randomisation instead.
 ---
 Habits suck. More specifically, they suck the joy out of life and the colour out of the sky. I never feel as dead as
 when I try, once again, to make some habit stick.

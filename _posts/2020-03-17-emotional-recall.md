@@ -1,5 +1,6 @@
 ---
 layout: post
+summary: Remembering emotions is a useful skill, and I'm rambling more than usually because first everything happened and now nothing happens.
 ---
 
 **Emotions, like thoughts, are something you can influence and change**, within reason. If you don't believe

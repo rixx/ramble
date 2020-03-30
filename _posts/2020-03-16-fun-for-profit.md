@@ -1,5 +1,6 @@
 ---
 layout: post
+summary: Use humour as a tool to ground yourself, get some context, and stop moping about (even when your moping is very serious and justified).
 ---
 
 Humour can be lots of things: Fun, brutal, surprising, offensive, subtle, … helpful.¹ Humour is a useful tool to

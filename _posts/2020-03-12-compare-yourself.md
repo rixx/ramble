@@ -1,5 +1,6 @@
 ---
 layout: post
+summary: Comparing yourself to others is Good, Actually. You "just" have to assume that we're all equals.
 ---
 
 Common wisdom (aka concerned friends and parents) will tell you not to compare yourself to others. But comparing

@@ -1,5 +1,6 @@
 ---
 layout: post
+summary: Reason about your ethics and other people's semantics by building virtue squares.
 ---
 
 Virtue squares are a useful tool to explore virtues, emotions, and everything else you attach a value judgement to. They
