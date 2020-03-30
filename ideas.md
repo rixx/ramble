@@ -6,8 +6,6 @@
       dank, freude, …^
       Same as intervention vs assistance
 - [ ] Followup to "don't compliment": Stop judging yourself: You inhibit your zen reactions. Focus on evaluating.
-- [ ] Origin stories are unproductive. There's a reason that superhero stories tend to come with extensive origin
-      stories, and then the villain's motivation is "take over world" or "have stupid revenge". cd Adler
 - [ ] Signifiers of fullfilment: Does your work spark joy, do you want to put your name on it, in a world where everything bears names?
 - [ ] You cannot lose, because you define the game. I mean, you can lose, but why'd you define a game that you can lose
       in? Game: "enjoy". Game: "improve x"
