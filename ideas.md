@@ -1,20 +1,21 @@
 # Actionable
 
+- [ ] You cannot lose, because you define the game. I mean, you can lose, but why'd you define a game that you can lose
+      in? Game: "enjoy". Game: "improve x"
+- [ ] Signifiers of fullfilment: Does your work spark joy, do you want to put your name on it, in a world where everything bears names?
+      Make it trivial to do the thing, make it hard *not* to do the thing. Needs better angle.
 - [ ] Don't compliment, it's judgement and criticism in disguise. It inhibits your flow. Recognise when compliments
       block you (re "how did you do that?" in Inner Game of Tennis)
       Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
       dank, freude, …^
       Same as intervention vs assistance
 - [ ] Followup to "don't compliment": Stop judging yourself: You inhibit your zen reactions. Focus on evaluating.
-- [ ] Signifiers of fullfilment: Does your work spark joy, do you want to put your name on it, in a world where everything bears names?
-- [ ] You cannot lose, because you define the game. I mean, you can lose, but why'd you define a game that you can lose
-      in? Game: "enjoy". Game: "improve x"
 - [ ] say "hell yes" or nah
 - [ ] Instead of intending to do something, think about it (/ask for it), then let it happen. Good for sports, but also other things.
       If that doesn't work, figure out which parts are either aversive or unclear. Let the X x itself.
 - [ ] Communication strategies that don't account for assholes are everywhere. Same for system design and disasters. The
       1% are worth to be considered.
-- [ ] Depression/anxiety can teach you a lot about project management
+- [ ] Depression/anxiety can teach you a lot about project management. Defensive life management?
 - [ ] narrative poisoning (aggressive dad etc)
 - [ ] no decisions when you're feeling like shit, or when you're feeling great
 - [ ] replacing defensiveness with curiosity (too preachy?) for social interactions. gentle/kind/respectful though.
