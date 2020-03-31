@@ -39,5 +39,6 @@ to focus on the motivations and outcomes instead of the origins.
 
 ### Further reading
 
-This post is mostly inspired by the book *Conflict is not Abuse* and its presentation of Adlerian psychology. Alfred
-Adler was a contemporary and colleague of Siegmund Freud, and the founder of the school of *Individual Psychology*.
+This post is mostly inspired by the book *The courage to be disliked* and its presentation of Adlerian psychology.
+Alfred Adler was a contemporary and colleague of Siegmund Freud, and the founder of the school of *Individual
+Psychology*.
