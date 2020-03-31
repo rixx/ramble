@@ -67,5 +67,19 @@
       heroically – usually.
 - [ ] How to virtue signal
 - [ ] Don't try to stop x, try to do y instead of x
-- [ ] Competition
+- [ ] Competition: If you tie up your self-worth, it's meh, because you can never win. If you don't compete, you have to
+      look for different drive, maybe. Or you start wanting to lose as a protective mechanism. Losing because you didn't
+      really try doesn't count, after all, does it? So many late-night papers … So it *would* count if you try?
+      If you shift your game away from competition entirely, that's fair – but you won't win anymore, and maybe you want
+      to? I like competition, in a way. Enter: Egoless desire to win. Compete sincerely? Compete for the challenge, for
+      the thing itself. Sparking joy! Run against your own time. Dein "Gegner" ist dein Freund – er ist der challenge,
+      und nur durch einen guten challenge wird der Sieg bedeutsam. Er gibt dir Sinn. Wer gegen dich spielt, kooperiert
+      mit dir! Ihr produziert gegenseitig die Herausforderung, die ihr zum Siegen braucht. True competition is true
+      cooperation. No person is defeated, both benefit by overcoming obstacles. Hope for a good opponent!
+      Second implication: Play sincerely. If you shrink back from using your advantages (provided fair game), you are a
+      bad competitor and not cooperative, because your opponent can't grow. It's ok to win. "If I assume that I am
+      making myself more worthy of respect by winning, then I must believe, consciously or unconsciously, that by
+      defeating someone, I am making him less worthy of respect. I can’t go up without pushing someone else down. This
+      belief involves us in a needless sense of guilt. It's a privilege to compete.
 - [ ] anki stuff
+- [ ] self-emergence > self-improvement (because one implies the other, but not the other way round)
