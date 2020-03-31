@@ -23,6 +23,9 @@
       also works with yourself. don't scorn your feelings, interrogate them.
 - [ ] there are no accidents, utopia
 - [ ] re: there are no accidents – rule of "first time, assume accident"
+- [ ] Questions to ask when teaching: **What is the unknown?** What is required? What do you want to find? What are you
+      supposed to seek? Help the student find the unknown, but also develop the student's ability to find the unknown.
+      By repeating the same question, you teach the question. Problem solving is a skill: imitation and practice.
 
 # Wooo
 
@@ -33,6 +36,8 @@
 - [ ] Religion vs organised religion, fite
 - [ ] Apologies
 - [ ] not understanding people makes you more angry and more pessimistic, so how about you try
+      people not understanding you makes them more angry and pessimistic, so make yourself understood
+      People's reasons are valid, even when they are bad
 - [ ] Culture is intricate, and you underestimate your cultural knowledge and your cultural ignorance
 - [ ] Did the church follow corporate community building practices
 - [ ] Hero culture vs Granny Weatherwax
@@ -59,7 +64,6 @@
 - [ ] can you feel your judgement conforming (e.g. read blog post, note phrases and spelling, …)
 - [ ] Niceness is a really good default way to interact with people. Most people respond very well to niceness, and those who don't have revealed themselves to be your enemies.
 - [ ] harsh criticism gets called “negativity,” but it isn’t. it’s hope, and it’s love. happy slappy optimism is the real negativity, because it operates under the assumption that things can’t get better. or shouldn’t.
-- [ ] People's reasons are valid, even when they are bad
 - [ ] Can you have enlightenment/growth w/o breakdown? consequence: triggers are good, kinda
 - [ ] courage and being brave are somewhat central, maybe? you can practice courage. "I have no idea what you're talking
       about". "Sorry, really not in the mood, going home". Not downplaying excitement
@@ -82,5 +86,6 @@
       making myself more worthy of respect by winning, then I must believe, consciously or unconsciously, that by
       defeating someone, I am making him less worthy of respect. I can’t go up without pushing someone else down. This
       belief involves us in a needless sense of guilt. It's a privilege to compete.
-- [ ] anki stuff
 - [ ] self-emergence > self-improvement (because one implies the other, but not the other way round)
+- [ ] Problem solving: Understand problem, make plan, follow plan, review result
+- [ ] Introduce shorthands and notations as a way of learning/familiarising/ease of recall. Cf legibility.
