@@ -42,3 +42,7 @@ to focus on the motivations and outcomes instead of the origins.
 This post is mostly inspired by the book *The courage to be disliked* and its presentation of Adlerian psychology.
 Alfred Adler was a contemporary and colleague of Siegmund Freud, and the founder of the school of *Individual
 Psychology*.
+
+If you want to know why this post is useful but wrong, read [David's
+response](https://notebook.drmaciver.com/posts/2020-04-02-09:44.html), or add a plural 's' to every mention of
+"motivation" and "goal" in this post.
