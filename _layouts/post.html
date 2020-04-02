@@ -8,4 +8,34 @@ layout: page
 
         {{ page.content }}
 
+    {% assign refutes = "" %}
+    {% assign refuted_by = "" %}
+    {% assign is_refuting = false %}
+    {% assign is_refuted_by = false %}
+    {% for post in site.posts %}
+        {% if page.refutes contains post.slug %}
+            {% assign is_refuting = true %}
+            {% capture refutes %}
+                {{ refutes }}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endcapture %}
+        {% endif %}
+        {% if post.refutes contains page.slug %}
+            {% assign is_refuted_by = true %}
+            {% capture refuted_by %}
+                {{ refuted_by }}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endcapture %}
+        {% endif %}
+    {% endfor %}
+
+    {% if is_refuting %}
+    <h3>This post refutes:</h3>
+    <ul>{{ refutes }}</ul>
+    {% endif %}
+    {% if is_refuted_by %}
+    <h3>This post is refuted by:</h3>
+    <ul>{{ refuted_by }}</ul>
+    {% endif %}
+
     </article>
