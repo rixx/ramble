@@ -2,7 +2,7 @@
 title: Hyperbole Into Nuance
 refutes: your-hyperbolic-language-weirds-me-out
 date: 2020-04-02 16:00
-summary: Use hyperbole as a first step to approach nuanced takes.
+summary: Hyperbole is the best! (Or at least a first step to approach nuanced takes).
 layout: post
 ---
 
