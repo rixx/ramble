@@ -13,8 +13,11 @@ main, header {
 
 header {
     margin: 32px auto;
-    #social a {
-        text-decoration: none;
+    #social {
+        margin-top: 12px;
+        a {
+            text-decoration: none;
+        }
     }
 
 }
