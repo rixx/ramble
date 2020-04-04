@@ -46,4 +46,4 @@ Don't tie your self-worth to comparisons. But do compare yourself to others in t
 
 -----
 
-¹ Tim Minchin, If I Didn't Have You
+¹ [Tim Minchin, If I Didn't Have You](https://www.youtube.com/watch?v=Zn6gV2sdl38)

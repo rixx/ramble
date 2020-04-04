@@ -38,7 +38,7 @@ Anything that's **taking your framing of a situation and turning it into somethi
 
 A word of caution: Do this from a place of kindness. If you introduce derision, you'll harm yourself and set a dangerous
 precedent for contemptuous self-talk. Don't “lol this idiot can't even walk *laugh track*”. Do “This could've been my
-application to the Ministry of Silly Walks”.
+application to the [Ministry of Silly Walks](https://www.youtube.com/watch?v=eCLp7zodUiI)”.
 
 ----
 ¹ Seeing as I'm both German and not a very funny person, it can also stay out of this post. Call it ironic.
