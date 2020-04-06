@@ -31,7 +31,7 @@ This is a list of references to outside resources on this blog.
   - [Alief/Belief Coherence](https://notebook.drmaciver.com/posts/2020-03-14-13:55.html) in [Emotional
     Recall]({% post_url 2020-03-17-emotional-recall %})
   - [The art of not having opinions](https://notebook.drmaciver.com/posts/2020-03-09-11:13.html) in [Against
-    Compliments]{% post_url 2020-04-05-against-compliments %}
+    Compliments]({% post_url 2020-04-05-against-compliments %})
 - [/r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/top/) in [Conway Spotting]({% post_url
   2020-03-06-conway-spotting %})
 - [rixx.de](https://rixx.de) in [Intro]({% post_url 2020-03-02-intro %})
