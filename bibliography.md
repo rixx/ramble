@@ -30,6 +30,8 @@ This is a list of references to outside resources on this blog.
 - [notebook.drmaciver.com](https://notebook.drmaciver.com)
   - [Alief/Belief Coherence](https://notebook.drmaciver.com/posts/2020-03-14-13:55.html) in [Emotional
     Recall]({% post_url 2020-03-17-emotional-recall %})
+  - [Emotional reactions as legacy code](https://notebook.drmaciver.com/posts/2020-02-20-09:31.html) in [If only there
+    was a way to find out]({% post_url 2020-04-06-if-only-there-was-a-way %})
   - [The art of not having opinions](https://notebook.drmaciver.com/posts/2020-03-09-11:13.html) in [Against
     Compliments]({% post_url 2020-04-05-against-compliments %})
 - [/r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/top/) in [Conway Spotting]({% post_url
@@ -49,6 +51,8 @@ This is a list of references to outside resources on this blog.
   2020-03-03-virtue-squares %})
 - [Newton's method](https://en.wikipedia.org/wiki/Newton's_method) in [Hyperbole into Nuance]({% post_url
   2020-04-03-hyperbole-into-nuance %})
+- [Socratic method](https://en.wikipedia.org/wiki/Socratic_method) in [If only there was a way to find out]({% post_url
+  2020-04-06-if-only-there-was-a-way %})
 
 ## Videos
 
