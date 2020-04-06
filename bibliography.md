@@ -10,13 +10,18 @@ This is a list of references to outside resources on this blog.
 - *The Courage to Be Disliked* by Ichiro Kishimi, Fumitake Koga in [On Origin Stories]({% post_url
   2020-03-30-on-origin-stories %})
 - *Get Together: How to build a community with your people* by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto, in [Bridging and Bonding]({% post_url 2020-03-04-bridging-and-bonding %})
+- *The Inner Game of Tennis* by Timothy Gallway, in [Against Compliments]({% post_url 2020-04-05-against-compliments %})
 
 
 ## Papers
 
+- [“Don’t Bother Your Pretty Little Head”: Appearance Compliments Lead to Improved Mood but Impaired Cognitive Performance](https://journals.sagepub.com/doi/10.1177/0361684318758596) by Rotem Kahalon, Nurit Shnabel, Julia C. Becker in [Against Compliments]({% post_url 2020-04-05-against-compliments %})
 - [First Impressions: Making Up Your Mind After a 100-Ms Exposure to a
   Face](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01750.x) by Janine Willis, Alexander Todorov in
   [People Can Smell Fear, Too]({% post_url 2020-03-10-people-can-smell-fear-too %})
+- [Praise for intelligence can undermine children's motivation and performance](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.75.1.33) by Mueller, Claudia M.,Dweck, Carol S. in [Against Compliments]({% post_url 2020-04-05-against-compliments %})
+- [The Power of Feedback](https://journals.sagepub.com/doi/abs/10.3102/003465430298487) by John Hattie, Helen Timperley
+  in [Against Compliments]({% post_url 2020-04-05-against-compliments %})
 
 ## Websites, blog posts
 
@@ -25,6 +30,8 @@ This is a list of references to outside resources on this blog.
 - [notebook.drmaciver.com](https://notebook.drmaciver.com)
   - [Alief/Belief Coherence](https://notebook.drmaciver.com/posts/2020-03-14-13:55.html) in [Emotional
     Recall]({% post_url 2020-03-17-emotional-recall %})
+  - [The art of not having opinions](https://notebook.drmaciver.com/posts/2020-03-09-11:13.html) in [Against
+    Compliments]{% post_url 2020-04-05-against-compliments %}
 - [/r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/top/) in [Conway Spotting]({% post_url
   2020-03-06-conway-spotting %})
 - [rixx.de](https://rixx.de) in [Intro]({% post_url 2020-03-02-intro %})
