@@ -1,24 +1,24 @@
 # Actionable
 
 - [ ] You cannot lose, because you define the game. I mean, you can lose, but why'd you define a game that you can lose
-      in? Game: "enjoy". Game: "improve x"
+      in? Game: "enjoy". Game: "improve x" [IGOT]
 - [ ] Signifiers of fullfilment: Does your work spark joy, do you want to put your name on it, in a world where everything bears names?
       Make it trivial to do the thing, make it hard *not* to do the thing. Needs better angle.
       Find environments that *actively reward* what you want to do. [Twitter1]
 - [ ] Don't compliment, it's judgement and criticism in disguise. It inhibits your flow. Recognise when compliments
       block you (re "how did you do that?" in Inner Game of Tennis)
       Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
-      dank, freude, …^
+      dank, freude, …^ [IGOT]
       Same as intervention vs assistance
-- [ ] Followup to "don't compliment": Stop judging yourself: You inhibit your zen reactions. Focus on evaluating.
 - [ ] say "hell yes" or nah
 - [ ] Instead of intending to do something, think about it (/ask for it), then let it happen. Good for sports, but also other things.
-      If that doesn't work, figure out which parts are either aversive or unclear. Let the X x itself.
+      If that doesn't work, figure out which parts are either aversive or unclear. Let the X x itself. [IGOT] [TAO]
 - [ ] Communication strategies that don't account for assholes are everywhere. Same for system design and disasters. The
       1% are worth to be considered.
 - [ ] Depression/anxiety can teach you a lot about project management. Defensive life management?
 - [ ] narrative poisoning (aggressive dad etc)
-- [ ] no decisions when you're feeling like shit, or when you're feeling great
+- [ ] no decisions when you're feeling like shit, or when you're feeling great [ignatius, kinda, trostlosigkeit als
+      abwesenheit von zen]
 - [ ] replacing defensiveness with curiosity (too preachy?) for social interactions. gentle/kind/respectful though.
       needs prompts, like "what's your relationship with x", We know how fresh and original is each man, even the slowest and dullest. If we come at him right, talk him along, and give him his head, and at last say, What do you want? (Or if the man is very old, What did you want?) every man will speak his dream. And when a man talks from his heart, in his moment of truth, he speaks poetry. - Ray Bradbury
       also works with yourself. don't scorn your feelings, interrogate them.
@@ -27,13 +27,14 @@
 - [ ] Questions to ask when teaching: **What is the unknown?** What is required? What do you want to find? What are you
       supposed to seek? Help the student find the unknown, but also develop the student's ability to find the unknown.
       By repeating the same question, you teach the question. Problem solving is a skill: imitation and practice.
+      [HTSI]
 
 # Wooo
 
 - [ ] Read books you disagree with
 - [ ] without meta communication, you lose
 - [ ] We run on agreements, contracts, and mandates
-- [ ] What is Focusing (cf https://twitter.com/DRMacIver/status/1235837427282894849)
+- [ ] What is Focusing (cf https://twitter.com/DRMacIver/status/1235837427282894849) [FOC]
 - [ ] Religion vs organised religion, fite
 - [ ] Apologies
 - [ ] not understanding people makes you more angry and more pessimistic, so how about you try
@@ -53,7 +54,7 @@
 - [ ] write notebook posts yourself, it's good for you. find your medium of expression though (music? dance? tiktok?
       drawings?) prolific! being prolific as a means of self-transformation. Explore the adjacent possible.
       The more you do this, the larger your *surface area*. [WGICF]
-- [ ] Using anki for reflection / life things | spacy spaced repetition (reviewing emotions, goals, revelations)
+- [ ] Using anki for reflection / life things | spacy spaced repetition (reviewing emotions, goals, revelations) [AUG]
 - [ ] memorising poems
 - [ ] don't complain for a week
 - [ ] "If your spouse, friend, or family member is doing something dumb but not strictly harmful, try thinking of it as their artistic expression instead of using facts and logic to fail to talk them out of it."
@@ -87,10 +88,11 @@
       bad competitor and not cooperative, because your opponent can't grow. It's ok to win. "If I assume that I am
       making myself more worthy of respect by winning, then I must believe, consciously or unconsciously, that by
       defeating someone, I am making him less worthy of respect. I can’t go up without pushing someone else down. This
-      belief involves us in a needless sense of guilt. It's a privilege to compete.
+      belief involves us in a needless sense of guilt. It's a privilege to compete. [IGOT]
 - [ ] self-emergence > self-improvement (because one implies the other, but not the other way round)
-- [ ] Problem solving: Understand problem, make plan, follow plan, review result
-- [ ] Introduce shorthands and notations as a way of learning/familiarising/ease of recall. Cf legibility.
+      self improvement is a lie (alan watts)
+- [ ] Problem solving: Understand problem, make plan, follow plan, review result [HTSI]
+- [ ] Introduce shorthands and notations as a way of learning/familiarising/ease of recall. Cf legibility. [HTSI]
 - [ ] Play with constraints, cast-offs, repurposing. Sandals out of tires. Explore the adjacent possible, and expand it.
       Networking, both in ideas and people. Be receptive to the ideas of others (separate post probably). Numbers game:
       more people more ideas more prolific more success. [WGICF]
