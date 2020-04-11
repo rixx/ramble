@@ -4,6 +4,7 @@
       in? Game: "enjoy". Game: "improve x"
 - [ ] Signifiers of fullfilment: Does your work spark joy, do you want to put your name on it, in a world where everything bears names?
       Make it trivial to do the thing, make it hard *not* to do the thing. Needs better angle.
+      Find environments that *actively reward* what you want to do. [Twitter1]
 - [ ] Don't compliment, it's judgement and criticism in disguise. It inhibits your flow. Recognise when compliments
       block you (re "how did you do that?" in Inner Game of Tennis)
       Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
@@ -50,7 +51,8 @@
 - [ ] past roles of fairytales, present alternatives
 - [ ] power of magic: wand questions, maybe tarot
 - [ ] write notebook posts yourself, it's good for you. find your medium of expression though (music? dance? tiktok?
-      drawings?) prolific! being prolific as a means of self-transformation
+      drawings?) prolific! being prolific as a means of self-transformation. Explore the adjacent possible.
+      The more you do this, the larger your *surface area*. [WGICF]
 - [ ] Using anki for reflection / life things | spacy spaced repetition (reviewing emotions, goals, revelations)
 - [ ] memorising poems
 - [ ] don't complain for a week
@@ -89,3 +91,12 @@
 - [ ] self-emergence > self-improvement (because one implies the other, but not the other way round)
 - [ ] Problem solving: Understand problem, make plan, follow plan, review result
 - [ ] Introduce shorthands and notations as a way of learning/familiarising/ease of recall. Cf legibility.
+- [ ] Play with constraints, cast-offs, repurposing. Sandals out of tires. Explore the adjacent possible, and expand it.
+      Networking, both in ideas and people. Be receptive to the ideas of others (separate post probably). Numbers game:
+      more people more ideas more prolific more success. [WGICF]
+- [ ] Good ideas start out incomplete, so don't be discouraged? Find the good, refine it. Follow hunches.
+      Errors are necessary to come up with god things. See inventions. Contamination drives etc. Evolution exists due to
+      error rates. Exaptation! [WGICF]
+- [ ] Ideas by way of collision: Go out of your way, your area, your people. Knock environments together and see what
+      happens. Country < city < internet. Wide networks by way of different interests/hobbies, facilitating different
+      mindsets. [WGICF]
