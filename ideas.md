@@ -117,3 +117,4 @@
       - Hex/Necro: Meditation in games
       - Notice if things are fun or supposed to be fun (re chocolate)
       - Watch yourself playing, and watch your mind betray you
+- [ ] Register your prediction, because otherwise you'll believe your biases about yourself, and models are important
