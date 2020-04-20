@@ -102,3 +102,4 @@
 - [ ] Ideas by way of collision: Go out of your way, your area, your people. Knock environments together and see what
       happens. Country < city < internet. Wide networks by way of different interests/hobbies, facilitating different
       mindsets. [WGICF]
+- [ ] Polarise early, go by feeling [Models]

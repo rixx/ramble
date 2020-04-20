@@ -2,6 +2,7 @@
 - FOC: Focusing
 - HTSI: How to solve it
 - IGOT: Inner game of tennis
+- Models: Models – Attracting women through honesty
 - TAO: Tao te ching
 - Twitter1: https://twitter.com/nosilverv/status/1243557785465499648
 - WGICF: Where good ideas come from
