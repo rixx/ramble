@@ -40,6 +40,9 @@
 - [ ] not understanding people makes you more angry and more pessimistic, so how about you try
       people not understanding you makes them more angry and pessimistic, so make yourself understood
       People's reasons are valid, even when they are bad
+      Not understanding people is also a great predictor for breakdown in friendships and relationships
+      If I'm proud not to understand contrasting POVs, and people develop, I'll lose them, or they'll
+      stop their development in response to my preference (this is very bad)
 - [ ] Culture is intricate, and you underestimate your cultural knowledge and your cultural ignorance
 - [ ] Did the church follow corporate community building practices
 - [ ] Hero culture vs Granny Weatherwax
@@ -103,3 +106,14 @@
       happens. Country < city < internet. Wide networks by way of different interests/hobbies, facilitating different
       mindsets. [WGICF]
 - [ ] Polarise early, go by feeling [Models]
+- [ ] Calibration (Minesweeper too easy, Pinball too random, cursed game just right)
+- [ ] Lessons learnt in different games
+      - Minesweeper: Tell stories about anything
+      - Minesweeper: Deal with arbitrariness (or play good version)
+      - Pinball: what if you're missing entire layers of your current situation? You probably do, rel: culture is intricate
+      - General: There are things that come easy to others that you can't do with reasonable effort. Deal, or put in
+        unreasonable effort
+      - Analyse what went wrong
+      - Hex/Necro: Meditation in games
+      - Notice if things are fun or supposed to be fun (re chocolate)
+      - Watch yourself playing, and watch your mind betray you
