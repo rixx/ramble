@@ -118,3 +118,7 @@
       - Notice if things are fun or supposed to be fun (re chocolate)
       - Watch yourself playing, and watch your mind betray you
 - [ ] Register your prediction, because otherwise you'll believe your biases about yourself, and models are important
+- [ ] Building a social life requires introspective awareness (know who you are, what you like), **and** social skills.
+      You need to sell yourself, and to be aware what you're selling. One without the other does not work.
+      One sometimes follows from the other, a bit, to a degree, and practicing in isolation isn't worth it, but it's not
+      an automatic thing. [Twitter2]

@@ -5,4 +5,5 @@
 - Models: Models – Attracting women through honesty
 - TAO: Tao te ching
 - Twitter1: https://twitter.com/nosilverv/status/1243557785465499648
+- Twitter2: https://twitter.com/fvathynevgl/status/1252186381578838016
 - WGICF: Where good ideas come from
