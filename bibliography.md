@@ -36,6 +36,8 @@ This is a list of references to outside resources on this blog.
     Compliments]({% post_url 2020-04-05-against-compliments %})
 - [/r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/top/) in [Conway Spotting]({% post_url
   2020-03-06-conway-spotting %})
+- [/r/DoesAnybodyElse](https://www.reddit.com/r/DoesAnybodyElse/top/) in [You are not special]({% post_url
+  2020-04-24-you-are-not-special %})
 - [rixx.de](https://rixx.de) in [Intro]({% post_url 2020-03-02-intro %})
 
 
@@ -61,4 +63,4 @@ This is a list of references to outside resources on this blog.
 - [People in Order: 1. Age](https://www.youtube.com/watch?v=INuC1fRD-a4) in [People Can Smell Fear, Too]({% post_url
   2020-03-10-people-can-smell-fear-too %})
 - [Tim Minchin - If I didn't have you](https://www.youtube.com/watch?v=Zn6gV2sdl38) in [Compare Yourself]({% post_url
-  2020-03-12-compare-yourself %})
+  2020-03-12-compare-yourself %}), [You are not special]({% post_url 2020-04-24-you-are-not-special %})
