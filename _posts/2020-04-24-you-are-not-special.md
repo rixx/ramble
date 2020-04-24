@@ -27,7 +27,7 @@ You can be comparatively sure that somebody shares your weird aches and flash in
 [/r/DoesAnybodyElse](https://www.reddit.com/r/DoesAnybodyElse/top/) provide excellent illustration of the point.
 
 It also means that somebody else has had your problem, or one very very close to it. This means you can learn from their
-experience, by observing results (or even by [asking them]({% post_url 2020-04-06-if-only-there-was-a-way %}). It also
+experience, by observing results (or even by [asking them]({% post_url 2020-04-06-if-only-there-was-a-way %})). It also
 helps with feeling terrible in the face of perceived catastrophe.
 
 Yes, you just copied your humorous insult into the wrong chat window and sent it to the important customer, AND this has
