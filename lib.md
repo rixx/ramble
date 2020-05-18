@@ -1,9 +1,11 @@
 - AUG: http://augmentingcognition.com/ltm.html
 - FOC: Focusing
+- gollum: https://www.ribbonfarm.com/2011/01/06/the-gollum-effect/
 - HTSI: How to solve it
 - IGOT: Inner game of tennis
 - Models: Models – Attracting women through honesty
 - TAO: Tao te ching
 - Twitter1: https://twitter.com/nosilverv/status/1243557785465499648
 - Twitter2: https://twitter.com/fvathynevgl/status/1252186381578838016
+- Twitter3: https://twitter.com/davidklaing/status/1258846038552489984
 - WGICF: Where good ideas come from

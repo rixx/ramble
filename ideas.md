@@ -5,6 +5,7 @@
 - [ ] Signifiers of fullfilment: Does your work spark joy, do you want to put your name on it, in a world where everything bears names?
       Make it trivial to do the thing, make it hard *not* to do the thing. Needs better angle.
       Find environments that *actively reward* what you want to do. [Twitter1]
+      Smooth down rough edges in your daily life. ``twto`` etc.
 - [ ] Don't compliment, it's judgement and criticism in disguise. It inhibits your flow. Recognise when compliments
       block you (re "how did you do that?" in Inner Game of Tennis)
       Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
@@ -16,7 +17,8 @@
 - [ ] Communication strategies that don't account for assholes are everywhere. Same for system design and disasters. The
       1% are worth to be considered.
 - [ ] Depression/anxiety can teach you a lot about project management. Defensive life management?
-- [ ] narrative poisoning (aggressive dad etc)
+- [ ] narrative poisoning (aggressive dad etc). what happens when you force narrative collapse? who would you be without
+      your narrative?
 - [ ] no decisions when you're feeling like shit, or when you're feeling great [ignatius, kinda, trostlosigkeit als
       abwesenheit von zen]
 - [ ] replacing defensiveness with curiosity (too preachy?) for social interactions. gentle/kind/respectful though.
@@ -123,3 +125,10 @@
       One sometimes follows from the other, a bit, to a degree, and practicing in isolation isn't worth it, but it's not
       an automatic thing. [Twitter2]
 - [ ] How to distinguish between aliefs and beliefs if your thoughts are feelings
+- [ ] we look at output as characterising value, but how does the world look when you look at consumption instead?
+      what hole do you make in the world [gollum]
+- [ ] It's not a pendulum. Yes, change is reliable, but its direction isn't. your pendulum might suddenly decide to put
+      in five loopings in one direction, because your frame of reference is puny, human, flawed.
+- [ ] You shouldn't cut off / repress / punish parts of yourself that are unhelpful, but you can eat them (aka
+      reintegrate, but more violent/visceral).
+- [ ] This is how to enjoy things I like [twitter3]
