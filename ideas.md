@@ -132,3 +132,23 @@
 - [ ] You shouldn't cut off / repress / punish parts of yourself that are unhelpful, but you can eat them (aka
       reintegrate, but more violent/visceral).
 - [ ] This is how to enjoy things I like [twitter3]
+- [ ] Ich will einen dritten Orden
+- [ ] Okay, so. Liberal arts in the trad sense are the artes liberales, the (seven-ish) free arts. And the OPPOSITE
+      (thanks, Josef Pieper) are the servile arts (okay, or mechanical arts, but who are you kidding). They are
+      "servile", serving, twofold-ly (hey English, you're missing words): They were accessible to lower classes and
+      stands, whereas lib arts were reserved for the privileged upper classes (and clergy, to some extent!
+      cf arist/aquin), but they also serve a purpose, always, pretty directly. Architecture comes with a lot of abstract
+      concepts: You have to know about physics and chemistry and human nature – but you have a purpose. This was, for a
+      long time, seen as inferior. More recently (you can tell it's a history buff writing when the 1850s are more
+      recently) this has started to change. Industrial revolution, all that jazz. And now, with computers and silicon
+      valley culture, we seem to look at flipped ____: more people see the immediately useful (HIGHLY DOUBT THAT, but
+      that's popular belief) engineering studies as superior, whereas … oh the humanity. This comes with a cultural
+      imperialism and rapid expansion that's not unlike the US american foreign policy: if you're the new kid on the
+      block and become strong, you have the desire to shove your culture down everybody's throat. We're bringing freedom
+      and democracy. We're making nerd culture mainstream.
+      So, consider: There are charming and wonderful things in mechanical arts/studies/tech, and exploring them
+      playfully is artsy and fulfilling and wonderful and people who are inclined towards tech should do more of that,
+      less of single page web applications. **AND** more appreciation for humanities (seriously, this word.), please. If
+      you're into both, the synthesis can be delightful, and we should do more of that, too. So, yeah: declaring
+      tech/mechanical arts as second-best was meh, but the counter culture would profit a lot from being less arrogant
+      and obnoxious, please.
