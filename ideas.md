@@ -152,3 +152,4 @@
       you're into both, the synthesis can be delightful, and we should do more of that, too. So, yeah: declaring
       tech/mechanical arts as second-best was meh, but the counter culture would profit a lot from being less arrogant
       and obnoxious, please.
+- [ ] care & feeding manual https://cybre.space/@pmosetc/104229344239421916
