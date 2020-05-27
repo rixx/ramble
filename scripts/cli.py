@@ -1,11 +1,11 @@
 import datetime as dt
 import os
+import random
 import re
 import subprocess
 from pathlib import Path
 
 import click
-
 import frontmatter
 import inquirer
 from unidecode import unidecode
@@ -38,8 +38,7 @@ class Post:
         else:
             self.title = title
             self.metadata = metadata
-            datefmt = self.metadata["date"].strftime("%Y-%m-%d")
-            self.path = BASE_PATH / f"{datefmt}-{slugify(self.title)}.md"
+            self.path = BASE_PATH / f"{self.metadata['date']}-{slugify(self.title)}.md"
             with open(self.path, "wb") as fp:
                 frontmatter.dump(frontmatter.Post(content="\n", **self.metadata), fp)
 
@@ -65,7 +64,40 @@ def edit_post():
     subprocess.check_call(["git", "add", post_choice.path])
 
 
+def get_prompts():
+    with open("ideas.md") as fp:
+        content = fp.read()
+    prompts = []
+    current_prompt = ""
+    for line in (content + "\n").split("\n"):
+        line = line.strip()
+        if line.startswith("- "):
+            current_prompt = current_prompt.strip()
+            if current_prompt:
+                prompts.append(current_prompt)
+            current_prompt = line[2:]
+        else:
+            current_prompt += f"\n{line}"
+    return prompts
+
+
 def create_post():
+    prompt_choice = inquirer.list_input(
+        message="Do you know what to write about?",
+        choices=[("Yes", True), ("No", False)],
+        default=True,
+        carousel=True,
+    )
+    prompts = get_prompts()
+    while not prompt_choice:
+        click.echo(click.style("Random prompt:", bold=True))
+        click.echo(random.choice(prompts))
+        prompt_choice = inquirer.list_input(
+            message="Do you know what to write about?",
+            choices=[("Yes", True), ("No", False)],
+            default=True,
+            carousel=True,
+        )
     questions = [
         inquirer.Text("title", message="What’s the title of the post?"),
         inquirer.List(
