@@ -148,3 +148,5 @@
       and obnoxious, please.
 - care & feeding manual https://cybre.space/@pmosetc/104229344239421916
 - Enemies are good, actually [TOI]
+- David is right that parts of Tennis suck, but there are super good parts in it, too, and they boil down to
+  "trust yourself / your emotions / your body, let go and do stuff" https://notebook.drmaciver.com/posts/2020-05-27-07:21.html
