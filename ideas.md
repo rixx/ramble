@@ -153,3 +153,4 @@
       tech/mechanical arts as second-best was meh, but the counter culture would profit a lot from being less arrogant
       and obnoxious, please.
 - [ ] care & feeding manual https://cybre.space/@pmosetc/104229344239421916
+- [ ] Enemies are good, actually [TOI]
