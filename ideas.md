@@ -105,7 +105,6 @@
 - Polarise early, go by feeling [Models]
 - Calibration (Minesweeper too easy, Pinball too random, cursed game just right)
 - Lessons learnt in different games
-      - Minesweeper: Tell stories about anything
       - Minesweeper: Deal with arbitrariness (or play good version)
       - Pinball: what if you're missing entire layers of your current situation? You probably do, rel: culture is intricate
       - General: There are things that come easy to others that you can't do with reasonable effort. Deal, or put in

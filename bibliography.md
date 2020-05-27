@@ -18,6 +18,8 @@ This is a list of references to outside resources on this blog.
   Tennis](https://books.rixx.de/reviews/2020/the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance/)
   by Timothy Gallway, in [Against Compliments]({% post_url
   2020-04-05-against-compliments %})
+- [Twilight of the Idols](https://books.rixx.de/reviews/2020/twilight-of-the-idols/) by Friedrich Nietzsche in [Telling
+  tales]({% post_url 2020-05-27-storytelling-practice %})
 
 
 ## Papers
@@ -37,10 +39,12 @@ This is a list of references to outside resources on this blog.
 - [notebook.drmaciver.com](https://notebook.drmaciver.com)
   - [Alief/Belief Coherence](https://notebook.drmaciver.com/posts/2020-03-14-13:55.html) in [Emotional
     Recall]({% post_url 2020-03-17-emotional-recall %})
+  - [Competence is sexy](https://notebook.drmaciver.com/posts/2020-03-27-08:18.html) in [Telling
   - [Emotional reactions as legacy code](https://notebook.drmaciver.com/posts/2020-02-20-09:31.html) in [If only there
     was a way to find out]({% post_url 2020-04-06-if-only-there-was-a-way %})
   - [The art of not having opinions](https://notebook.drmaciver.com/posts/2020-03-09-11:13.html) in [Against
     Compliments]({% post_url 2020-04-05-against-compliments %})
+  tales]({% post_url 2020-05-27-storytelling-practice %})
 - [/r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/top/) in [Conway Spotting]({% post_url
   2020-03-06-conway-spotting %})
 - [/r/DoesAnybodyElse](https://www.reddit.com/r/DoesAnybodyElse/top/) in [You are not special]({% post_url
