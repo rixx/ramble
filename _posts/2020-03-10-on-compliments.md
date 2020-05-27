@@ -1,6 +1,7 @@
 ---
 layout: post
 summary: Compliments are good. Give more (good) compliments.
+featured: true
 ---
 
 Compliments are good. You probably don't give as many compliments as you could. You don't receive as many as would be

@@ -3,6 +3,7 @@ title: If only there was a way to find out
 layout: post
 date: 2020-04-06 08:00
 summary: Asking questions is hard.
+featured: true
 ---
 
 Asking questions is hard. I used to be terrible at it, and I still have to use a considerable amount of energy to ask

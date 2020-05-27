@@ -1,6 +1,7 @@
 ---
 layout: post
 summary: When everything is awesome, nothing is.
+featured: true
 ---
 
 <blockquote>

@@ -3,6 +3,7 @@ title: You are not special
 date: 2020-04-24 19:00
 layout: post
 summary: I'm sorry, but you really aren't.
+featured: true
 ---
 
 I don't know about you, but … oh no, wait. I do know about you: you're a mess of inconsistencies and worries and
