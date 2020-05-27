@@ -7,10 +7,17 @@ This is a list of references to outside resources on this blog.
 
 ## Books
 
-- *The Courage to Be Disliked* by Ichiro Kishimi, Fumitake Koga in [On Origin Stories]({% post_url
-  2020-03-30-on-origin-stories %})
-- *Get Together: How to build a community with your people* by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto, in [Bridging and Bonding]({% post_url 2020-03-04-bridging-and-bonding %})
-- *The Inner Game of Tennis* by Timothy Gallway, in [Against Compliments]({% post_url 2020-04-05-against-compliments %})
+- [The Courage to Be
+  Disliked](https://books.rixx.de/reviews/2020/the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness/)
+  by Ichiro Kishimi, Fumitake Koga in [On Origin Stories]({% post_url 2020-03-30-on-origin-stories %})
+- [Get Together: How to build a community with your
+  people](https://books.rixx.de/reviews/2020/get-together-how-to-build-a-community-with-your-people/)
+  by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto, in [Bridging and
+  Bonding]({% post_url 2020-03-04-bridging-and-bonding %})
+- [The Inner Game of
+  Tennis](https://books.rixx.de/reviews/2020/the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance/)
+  by Timothy Gallway, in [Against Compliments]({% post_url
+  2020-04-05-against-compliments %})
 
 
 ## Papers
