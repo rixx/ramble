@@ -50,6 +50,9 @@ This is a list of references to outside resources on this blog.
 - [/r/DoesAnybodyElse](https://www.reddit.com/r/DoesAnybodyElse/top/) in [You are not special]({% post_url
   2020-04-24-you-are-not-special %})
 - [rixx.de](https://rixx.de) in [Intro]({% post_url 2020-03-02-intro %})
+- [The Problem with the Romans is they always try to walk it
+  in](https://medium.com/@garius/the-problem-with-the-romans-is-they-always-try-to-walk-it-in-65a961e59648) in [What I
+  write about when I write about running]({% post_url 2020-05-28-what-i-write-about-when-i-write-about-running %})
 
 
 ### Wikipedia entries
