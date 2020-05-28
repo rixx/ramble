@@ -78,6 +78,8 @@ I'm an idiot, and sometimes I'm an idiot to great effect, and it's a lot of fun.
 
 ¹ To avoid [walking it in like the
 Romans](https://medium.com/@garius/the-problem-with-the-romans-is-they-always-try-to-walk-it-in-65a961e59648), an
-explanation: The title is a riff on [What I talk about when I talk about running]() by Haruki Murakami
+explanation: The title is a riff on [What I talk about when I talk about running]() by Haruki Murakami, which in turn
+(as a kind friend informs me) is a possibly indirect riff on [What We Talk About When We Talk About
+Love](https://en.wikipedia.org/wiki/What_We_Talk_About_When_We_Talk_About_Love)
 
 ² But please don't try this at home.
