@@ -18,6 +18,8 @@ This is a list of references to outside resources on this blog.
   Tennis](https://books.rixx.de/reviews/2020/the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance/)
   by Timothy Gallway, in [Against Compliments]({% post_url
   2020-04-05-against-compliments %})
+- [The Spiritual Exercises](http://spex.ignatianspirituality.com/SpiritualExercises/Puhl) by Ignatius of Loyola, in
+  [Great Mood vs Great Decisions]({% post_url 2020-05-29-great-mood-vs-great-decisions %})
 - [Twilight of the Idols](https://books.rixx.de/reviews/2020/twilight-of-the-idols/) by Friedrich Nietzsche in [Telling
   tales]({% post_url 2020-05-27-storytelling-practice %})
 
@@ -36,6 +38,8 @@ This is a list of references to outside resources on this blog.
 
 - [AnkiWeb](https://ankiweb.net/) in [Emotional Recall]({% post_url 2020-03-17-emotional-recall %})
 - [antihabits.rixx.de](https://antihabits.rixx.de) plus [source](https://github.com/rixx/antihabits/blob/master/antihabit.js) in [Antihabits]({% post_url 2020-03-07-antihabits %})
+- [Consistency is the enemy](https://notebook.lisamcnulty.co.uk/2020/05/04/consistency-is-the-enemy/) in [Great mood vs
+  great decisions]({% post_url 2020-05-29-great-mood-vs-great-decisions %})
 - [notebook.drmaciver.com](https://notebook.drmaciver.com)
   - [Alief/Belief Coherence](https://notebook.drmaciver.com/posts/2020-03-14-13:55.html) in [Emotional
     Recall]({% post_url 2020-03-17-emotional-recall %})
