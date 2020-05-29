@@ -1,14 +1,9 @@
 - You cannot lose, because you define the game. I mean, you can lose, but why'd you define a game that you can lose
-      in? Game: "enjoy". Game: "improve x" [IGOT]
+      in? Game: "enjoy". Game: "improve x" [IGOT], enjoy enemies [TOI]
 - Signifiers of fullfilment: Does your work spark joy, do you want to put your name on it, in a world where everything bears names?
       Make it trivial to do the thing, make it hard *not* to do the thing. Needs better angle.
       Find environments that *actively reward* what you want to do. [Twitter1]
       Smooth down rough edges in your daily life. ``twto`` etc.
-- Don't compliment, it's judgement and criticism in disguise. It inhibits your flow. Recognise when compliments
-      block you (re "how did you do that?" in Inner Game of Tennis)
-      Praise (meh, judgement, hierarchy, manipulation. lacks gratitude and respect, same as rebuke) vs encouragement:
-      dank, freude, …^ [IGOT]
-      Same as intervention vs assistance
 - say "hell yes" or nah
 - Instead of intending to do something, think about it (/ask for it), then let it happen. Good for sports, but also other things.
       If that doesn't work, figure out which parts are either aversive or unclear. Let the X x itself. [IGOT] [TAO]
@@ -17,8 +12,6 @@
 - Depression/anxiety can teach you a lot about project management. Defensive life management?
 - narrative poisoning (aggressive dad etc). what happens when you force narrative collapse? who would you be without
       your narrative?
-- no decisions when you're feeling like shit, or when you're feeling great [ignatius, kinda, trostlosigkeit als
-      abwesenheit von zen]
 - replacing defensiveness with curiosity (too preachy?) for social interactions. gentle/kind/respectful though.
       needs prompts, like "what's your relationship with x", We know how fresh and original is each man, even the slowest and dullest. If we come at him right, talk him along, and give him his head, and at last say, What do you want? (Or if the man is very old, What did you want?) every man will speak his dream. And when a man talks from his heart, in his moment of truth, he speaks poetry. - Ray Bradbury
       also works with yourself. don't scorn your feelings, interrogate them.
@@ -31,9 +24,7 @@
 - Read books you disagree with
 - without meta communication, you lose
 - We run on agreements, contracts, and mandates
-- What is Focusing (cf https://twitter.com/DRMacIver/status/1235837427282894849) [FOC]
 - Religion vs organised religion, fite
-- Apologies
 - not understanding people makes you more angry and more pessimistic, so how about you try
       people not understanding you makes them more angry and pessimistic, so make yourself understood
       People's reasons are valid, even when they are bad
@@ -65,12 +56,10 @@
 - reframe what people say to how their enemies would say it
 - what to do with imperfections (list)
 - can you feel your judgement conforming (e.g. read blog post, note phrases and spelling, …)
-- Niceness is a really good default way to interact with people. Most people respond very well to niceness, and those who don't have revealed themselves to be your enemies.
 - harsh criticism gets called “negativity,” but it isn’t. it’s hope, and it’s love. happy slappy optimism is the real negativity, because it operates under the assumption that things can’t get better. or shouldn’t.
 - Can you have enlightenment/growth w/o breakdown? consequence: triggers are good, kinda
 - courage and being brave are somewhat central, maybe? you can practice courage. "I have no idea what you're talking
       about". "Sorry, really not in the mood, going home". Not downplaying excitement
-- be a good teachable moment
 - you can do anything for two minutes blah (-> security, deep dig efforts). And there are better ways than suffering
       heroically – usually.
 - How to virtue signal
@@ -89,6 +78,7 @@
       making myself more worthy of respect by winning, then I must believe, consciously or unconsciously, that by
       defeating someone, I am making him less worthy of respect. I can’t go up without pushing someone else down. This
       belief involves us in a needless sense of guilt. It's a privilege to compete. [IGOT]
+      enjoy enemies [TOI]
 - self-emergence > self-improvement (because one implies the other, but not the other way round)
       self improvement is a lie (alan watts)
 - Problem solving: Understand problem, make plan, follow plan, review result [HTSI]
