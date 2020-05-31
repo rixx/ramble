@@ -9,11 +9,12 @@ body {
 main, header {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
+    margin-left: 12.5%;
 }
 
 header {
-    margin: 32px auto;
+    margin: 32px inherit;
     #social {
         margin-top: 12px;
         a {
@@ -24,8 +25,7 @@ header {
 }
 
 header, article {
-    width: 70ch;
-    max-width: 100%;
+    width: 55%;
     padding: 0 20px 50px 20px;
 }
 
@@ -59,4 +59,7 @@ blockquote {
 }
 .center {
     text-align: center;
+}
+.post-snippet {
+    margin: 48px 0;
 }

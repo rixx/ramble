@@ -1,5 +1,5 @@
 
-<article>
+<p class="post-snippet">
     <b>{% if post.featured %}🌟 {% endif %}<a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>:</b>
     {{ post.summary }}
 
@@ -28,4 +28,4 @@
     {% if is_refuted_by %}
     This post is refuted by: {{ refuted_by|strip|remove_first: "," }}.
     {% endif %}
-</article>
+</p>
