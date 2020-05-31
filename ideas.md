@@ -4,7 +4,7 @@
       Make it trivial to do the thing, make it hard *not* to do the thing. Needs better angle.
       Find environments that *actively reward* what you want to do. [Twitter1]
       Smooth down rough edges in your daily life. ``twto`` etc.
-- say "hell yes" or nah
+- say "hell yes" or nah, related: polarise https://twitter.com/DRMacIver/status/1266065712113610752
 - Instead of intending to do something, think about it (/ask for it), then let it happen. Good for sports, but also other things.
       If that doesn't work, figure out which parts are either aversive or unclear. Let the X x itself. [IGOT] [TAO]
 - Communication strategies that don't account for assholes are everywhere. Same for system design and disasters. The
@@ -140,3 +140,4 @@
 - Enemies are good, actually [TOI]
 - David is right that parts of Tennis suck, but there are super good parts in it, too, and they boil down to
   "trust yourself / your emotions / your body, let go and do stuff" https://notebook.drmaciver.com/posts/2020-05-27-07:21.html
+- if failure is not an option, failure is mandatory https://twitter.com/DRMacIver/status/1266704808150470657
