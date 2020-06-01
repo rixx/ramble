@@ -33,12 +33,14 @@ done the thing is helpful for you: good! For me, those kinds of advice feel just
 “Now…if you trust in yourself…”<br>
 “Yes?”<br>
 “…and believe in your dreams…”<br>
-“Yes?” “…and follow your star…” Miss Tick went on.<br>
+“Yes?”<br>
+“…and follow your star…” Miss Tick went on.<br>
 “Yes?”<br>
 “…you’ll still get beaten by people who spent their time working hard and learning things and weren’t so lazy.
 Good-bye.”
-
 </blockquote>
+
+<p class="source">- Terry Pratchett, The Wee Free Men</p>
 
 The thing that works best for me is to approach a situation like that as a **management challenge**.  Management here
 means: Figuring out what my objectives are. Finding the blockers. Looking for ways around them, or ways that can solve
