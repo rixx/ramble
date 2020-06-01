@@ -3,6 +3,7 @@ email: r@rixx.de
 description: >- # this means to ignore newlines until "baseurl:"
   Thinking. Writing.
 baseurl: "" # the subpath of your site, e.g. /blog
+author: "Tobias Kunze"
 url: "https://ramble.rixx.de"
 twitter_username: rixxtr
 github_username:  rixx
