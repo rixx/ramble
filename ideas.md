@@ -142,3 +142,4 @@
   "trust yourself / your emotions / your body, let go and do stuff" https://notebook.drmaciver.com/posts/2020-05-27-07:21.html
 - if failure is not an option, failure is mandatory https://twitter.com/DRMacIver/status/1266704808150470657
 - bughoroskp
+- main: kleine annehmlichkeiten, inquirer(), `posts new`, etc
