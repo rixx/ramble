@@ -92,7 +92,8 @@
 - Ideas by way of collision: Go out of your way, your area, your people. Knock environments together and see what
       happens. Country < city < internet. Wide networks by way of different interests/hobbies, facilitating different
       mindsets. [WGICF]
-- Polarise early, go by feeling [Models]
+- Polarise early, go by feeling [Models], but also Nietzsche. Omg, Nietzsche did [Models] better than Mark could ever
+  imagine.
 - Calibration (Minesweeper too easy, Pinball too random, cursed game just right)
 - Lessons learnt in different games
       - Minesweeper: Deal with arbitrariness (or play good version)
@@ -143,3 +144,4 @@
 - if failure is not an option, failure is mandatory https://twitter.com/DRMacIver/status/1266704808150470657
 - bughoroskp
 - main: kleine annehmlichkeiten, inquirer(), `posts new`, etc
+- "say more" is a great way to continue conversations. also: jumping-off points, but be mindful of conversation modes.
