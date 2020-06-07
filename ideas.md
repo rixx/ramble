@@ -22,6 +22,8 @@
       By repeating the same question, you teach the question. Problem solving is a skill: imitation and practice.
       [HTSI]
 - Read books you disagree with
+  https://www.lesswrong.com/posts/ZGzDNfNCXzfx6hYAH/how-to-learn-soft-skills - model what the author was thinking,
+  empathy, at least learn about people like the author, or extract value from the meta
 - without meta communication, you lose
 - We run on agreements, contracts, and mandates
 - Religion vs organised religion, fite
@@ -79,6 +81,8 @@
       defeating someone, I am making him less worthy of respect. I can’t go up without pushing someone else down. This
       belief involves us in a needless sense of guilt. It's a privilege to compete. [IGOT]
       enjoy enemies [TOI]
+      https://notebook.drmaciver.com/posts/2020-05-31-09:20.html
+      but actually, nietzsche did it better
 - self-emergence > self-improvement (because one implies the other, but not the other way round)
       self improvement is a lie (alan watts)
 - Problem solving: Understand problem, make plan, follow plan, review result [HTSI]
@@ -144,4 +148,8 @@
 - if failure is not an option, failure is mandatory https://twitter.com/DRMacIver/status/1266704808150470657
 - bughoroskp
 - main: kleine annehmlichkeiten, inquirer(), `posts new`, etc
-- "say more" is a great way to continue conversations. also: jumping-off points, but be mindful of conversation modes.
+- saying "say more" is a great way to continue conversations. also: jumping-off points, but be mindful of conversation modes.
+- saying "oops"
+- find your values by applying adverbs. (maybe just "on adverbs")
+- "forgive yourself" in meditation is a meh frame (as per https://twitter.com/visakanv/status/1263643405780832257),
+  opposed to the much stronger "nice, good job, I noticed a distraction, sick work yo"
