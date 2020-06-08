@@ -6,29 +6,18 @@ layout: page
 
         {{ page.content }}
 
-    {% assign related = "" %}
     {% assign related_by = "" %}
-    {% assign is_relating = false %}
     {% assign is_related_by = false %}
     {% for other_post in site.posts %}
-        {% if page.related contains other_post.slug %}
-            {% assign is_relating = true %}
-            {% capture relates %}
-                {{ relates }}{% if relates %}, {% endif %}<a href="{{ other_post.url }}">{{ other_post.title }}</a>
-            {% endcapture %}
-        {% endif %}
         {% if other_post.related contains page.slug %}
             {% assign is_related_by = true %}
             {% capture related_by %}
-                {{ related_by }}{% if related_by %}, {% endif %}<a href="{{ other_post.url }}">{{ other_post.title }}</a>
+                {{ related_by }}
+                <li><a href="{{ other_post.url }}">{{ other_post.title }}</a></li>
             {% endcapture %}
         {% endif %}
     {% endfor %}
 
-    {% if is_relating %}
-    <h3>This post links to:</h3>
-    <ul>{{ relates }}</ul>
-    {% endif %}
     {% if is_related_by %}
     <h3>This post is linked to from:</h3>
     <ul>{{ related_by }}</ul>
