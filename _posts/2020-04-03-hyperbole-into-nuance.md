@@ -1,6 +1,6 @@
 ---
 title: Hyperbole Into Nuance
-refutes: your-hyperbolic-language-weirds-me-out
+related: your-hyperbolic-language-weirds-me-out
 date: 2020-04-02 16:00
 summary: Hyperbole is the best! (Or at least a first step to approach nuanced takes).
 layout: post

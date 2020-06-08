@@ -107,8 +107,8 @@ def create_post():
             carousel=True,
         ),
         inquirer.List(
-            "refutes",
-            message="Does this post refute another post?",
+            "related",
+            message="Is this post related to another post?",
             choices=[("Yes", True), ("No", False)],
             default=False,
             carousel=True,
@@ -122,14 +122,14 @@ def create_post():
         "date": date.strftime("%Y-%m-%d"),
         "summary": "",
     }
-    if answers["refutes"]:
+    if answers["related"]:
         posts = load_posts()
         post_choice = inquirer.list_input(
             message="Which post?",
             choices=[(post.title, post) for post in posts],
             carousel=True,
         )
-        metadata["refutes"] = post_choice.path.name[len("yyyy-mm-dd-") : -3]
+        metadata["related"] = post_choice.path.name[len("yyyy-mm-dd-") : -3]
 
     post = Post(title=answers["title"], metadata=metadata)
     post.edit()

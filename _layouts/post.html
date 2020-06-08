@@ -6,32 +6,30 @@ layout: page
 
         {{ page.content }}
 
-    {% assign refutes = "" %}
-    {% assign refuted_by = "" %}
-    {% assign is_refuting = false %}
-    {% assign is_refuted_by = false %}
-    {% for post in site.posts %}
-        {% if page.refutes contains post.slug %}
-            {% assign is_refuting = true %}
-            {% capture refutes %}
-                {{ refutes }}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% assign related = "" %}
+    {% assign related_by = "" %}
+    {% assign is_relating = false %}
+    {% assign is_related_by = false %}
+    {% for other_post in site.posts %}
+        {% if page.related contains other_post.slug %}
+            {% assign is_relating = true %}
+            {% capture relates %}
+                {{ relates }}{% if relates %}, {% endif %}<a href="{{ other_post.url }}">{{ other_post.title }}</a>
             {% endcapture %}
         {% endif %}
-        {% if post.refutes contains page.slug %}
-            {% assign is_refuted_by = true %}
-            {% capture refuted_by %}
-                {{ refuted_by }}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% if other_post.related contains page.slug %}
+            {% assign is_related_by = true %}
+            {% capture related_by %}
+                {{ related_by }}{% if related_by %}, {% endif %}<a href="{{ other_post.url }}">{{ other_post.title }}</a>
             {% endcapture %}
         {% endif %}
     {% endfor %}
 
-    {% if is_refuting %}
-    <h3>This post refutes:</h3>
-    <ul>{{ refutes }}</ul>
+    {% if is_relating %}
+    <h3>This post links to:</h3>
+    <ul>{{ relates }}</ul>
     {% endif %}
-    {% if is_refuted_by %}
-    <h3>This post is refuted by:</h3>
-    <ul>{{ refuted_by }}</ul>
+    {% if is_related_by %}
+    <h3>This post is linked to from:</h3>
+    <ul>{{ related_by }}</ul>
     {% endif %}

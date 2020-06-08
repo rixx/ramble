@@ -3,7 +3,7 @@ title: Against Compliments
 date: 2020-04-05 19:00
 layout: post
 summary: I told you to compliment people. Don't listen to me, compliments are dangerous.
-refutes: on-compliments
+related: on-compliments
 ---
 
 In the spirit of [All Opinions Wrong But Useful]({% post_url 2020-04-02-wrong-opinions-only %}), I'm going to argue
