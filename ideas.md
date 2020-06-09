@@ -97,7 +97,6 @@
       mindsets. [WGICF]
 - Polarise early, go by feeling [Models], but also Nietzsche. Omg, Nietzsche did [Models] better than Mark could ever
   imagine.
-- Calibration (Minesweeper too easy, Pinball too random, cursed game just right)
 - Lessons learnt in different games
       - Minesweeper: Deal with arbitrariness (or play good version)
       - Pinball: what if you're missing entire layers of your current situation? You probably do, rel: culture is intricate
