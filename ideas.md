@@ -9,7 +9,6 @@
       If that doesn't work, figure out which parts are either aversive or unclear. Let the X x itself. [IGOT] [TAO]
 - Communication strategies that don't account for assholes are everywhere. Same for system design and disasters. The
       1% are worth to be considered.
-- Depression/anxiety can teach you a lot about project management. Defensive life management?
 - narrative poisoning (aggressive dad etc). what happens when you force narrative collapse? who would you be without
       your narrative?
 - replacing defensiveness with curiosity (too preachy?) for social interactions. gentle/kind/respectful though.

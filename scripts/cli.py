@@ -95,7 +95,7 @@ def create_post():
         prompt_choice = inquirer.list_input(
             message="Do you know what to write about?",
             choices=[("Yes", True), ("No", False)],
-            default=True,
+            default=False,
             carousel=True,
         )
     questions = [
