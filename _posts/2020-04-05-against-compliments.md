@@ -49,8 +49,3 @@ or at least kept them to yourself.
 
 While this is pretty bleak, all things considered, I'm still in favour of giving more compliments, but more nuanced and
 less unhesitant than a month ago.
-
-
------
-
-**Note:** As of this post, the ramble blog comes with [a bibliography](/bibliography.html).
