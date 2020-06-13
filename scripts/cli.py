@@ -3,6 +3,7 @@ import os
 import random
 import re
 import subprocess
+from contextlib import suppress
 from pathlib import Path
 
 import click
@@ -84,17 +85,21 @@ def get_prompts():
 def create_post():
     prompt_choice = inquirer.list_input(
         message="Do you know what to write about?",
-        choices=[("Yes", True), ("No", False)],
+        choices=[("Yes", True), ("Random prompt, please", False), ("Random book, please", None)],
         default=True,
         carousel=True,
     )
     prompts = get_prompts()
     while not prompt_choice:
-        click.echo(click.style("Random prompt:", bold=True))
-        click.echo(random.choice(prompts))
+        if prompt_choice is False:
+            click.echo(click.style("Random prompt:", bold=True))
+            click.echo(random.choice(prompts))
+        else:
+            with suppress(BaseException):  # Conversion can go on endlessly
+                subprocess.call(["scripts/quote.py"])
         prompt_choice = inquirer.list_input(
             message="Do you know what to write about?",
-            choices=[("Yes", True), ("No", False)],
+            choices=[("Yes", True), ("Random prompt, please", False), ("Random book, please", None)],
             default=False,
             carousel=True,
         )
