@@ -85,7 +85,11 @@ def get_prompts():
 def create_post():
     prompt_choice = inquirer.list_input(
         message="Do you know what to write about?",
-        choices=[("Yes", True), ("Random prompt, please", False), ("Random book, please", None)],
+        choices=[
+            ("Yes", True),
+            ("Random prompt, please", False),
+            ("Random book, please", None),
+        ],
         default=True,
         carousel=True,
     )
@@ -99,7 +103,11 @@ def create_post():
                 subprocess.call(["scripts/quote.py"])
         prompt_choice = inquirer.list_input(
             message="Do you know what to write about?",
-            choices=[("Yes", True), ("Random prompt, please", False), ("Random book, please", None)],
+            choices=[
+                ("Yes", True),
+                ("Random prompt, please", False),
+                ("Random book, please", None),
+            ],
             default=False,
             carousel=True,
         )

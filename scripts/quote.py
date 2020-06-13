@@ -1,34 +1,48 @@
 #!/usr/bin/env python2
 
-import sys, os, random, tempfile, subprocess
+import os
+import random
+import subprocess
+import sys
+import tempfile
 
-path = os.environ.get('CALIBRE_PYTHON_PATH', u'/usr/lib/calibre')
+path = os.environ.get("CALIBRE_PYTHON_PATH", u"/usr/lib/calibre")
 if path not in sys.path:
     sys.path.insert(0, path)
 
-sys.resources_location = os.environ.get('CALIBRE_RESOURCES_PATH', u'/usr/share/calibre')
-sys.extensions_location = os.environ.get('CALIBRE_EXTENSIONS_PATH', u'/usr/lib/calibre/calibre/plugins')
-sys.executables_location = os.environ.get('CALIBRE_EXECUTABLES_PATH', '/usr/lib/calibre/bin-py2')
+sys.resources_location = os.environ.get("CALIBRE_RESOURCES_PATH", u"/usr/share/calibre")
+sys.extensions_location = os.environ.get(
+    "CALIBRE_EXTENSIONS_PATH", u"/usr/lib/calibre/calibre/plugins"
+)
+sys.executables_location = os.environ.get(
+    "CALIBRE_EXECUTABLES_PATH", "/usr/lib/calibre/bin-py2"
+)
 
-from calibre.library import db
 
-db = db('/home/rixx/lib/books').new_api
+def main():
+    from calibre.library import db
 
-import pdb; pdb.set_trace()
+    db = db("/home/rixx/lib/books").new_api
 
-ids = db.search('languages:"=English" tags:"=state:read"')
-book = random.choice(list(ids))
-metadata = db.get_metadata(book)
-print("Chosen book: {} by {}".format(metadata.title, ", ".join(metadata.authors)))
+    ids = db.search('languages:"=English" tags:"=state:read"')
+    book = random.choice(list(ids))
+    metadata = db.get_metadata(book)
+    print("Chosen book: {} by {}".format(metadata.title, ", ".join(metadata.authors)))
 
-path = db.format_abspath(book, list(db.format_files(book).keys())[0])
-tmp = tempfile.NamedTemporaryFile(suffix=".txt")
+    path = db.format_abspath(book, list(db.format_files(book).keys())[0])
+    tmp = tempfile.NamedTemporaryFile(suffix=".txt")
 
-print("Converting ...")
-subprocess.check_output(["ebook-convert", path, tmp.name])
-print("Converted.")
+    print("Converting ...")
+    subprocess.check_output(["ebook-convert", path, tmp.name])
+    print("Converted.")
 
-lines = int(subprocess.check_output(["wc", "-l", tmp.name]).split(" ")[0])
-line_no = random.randint(0, lines)
-subprocess.check_call([os.environ.get("EDITOR", "vim"), "+{}".format(line_no), tmp.name])
-tmp.close()
+    lines = int(subprocess.check_output(["wc", "-l", tmp.name]).split(" ")[0])
+    line_no = random.randint(0, lines)
+    subprocess.check_call(
+        [os.environ.get("EDITOR", "vim"), "+{}".format(line_no), tmp.name]
+    )
+    tmp.close()
+
+
+if __name__ == "__main__":
+    main()
