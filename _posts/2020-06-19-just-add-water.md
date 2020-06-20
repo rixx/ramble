@@ -7,7 +7,7 @@ title: Just Add Water
 
 On the surface, it's simple – no pun intended: I am a wave in the ocean. I began my life when wind and ocean came
 together, and maybe there was even love involved. I will wander the ocean until my death, either by exhaustion or by
-finding the short. Such is life for us waves.
+finding the shore. Such is life for us waves.
 
 But, you sea, this answers **nothing**. Who am I, really? Who am I truly, deep down? What is my *purpose* in life? What
 is my place in the universe, what is my contribution? Where should I go? Do I follow everybody else, or do I choose a
