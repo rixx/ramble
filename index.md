@@ -2,19 +2,13 @@
 layout: page
 ---
 
-## Featured posts
+<p>This is a practice blog for unpolished, somewhat-kinda daily writing. You can find similar blogs
+<a href="https://notebooks.rixx.de/">here</a>.</p>
 
-<ul>
-{% for post in site.posts %}{% if post.featured %}
-    <li><b><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></b><br>{{ post.summary }}</li>
-{% endif %}{% endfor %}
-</ul>
-
-
-## All posts
+<h2>Posts</h2>
 
 <ul>
 {% for post in site.posts %}
-    <li><b><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></b><br>{{ post.summary }}</li>
+    <li>{% if post.featured %}🌟 {% endif %}<b><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></b><br>{{ post.summary }}</li>
 {% endfor %}
 </ul>
