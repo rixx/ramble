@@ -43,6 +43,7 @@ header {
 
 header, article {
     width: 55%;
+    min-width: 300px;
 }
 article h2 {
     font-weight: normal;
@@ -86,4 +87,25 @@ blockquote {
 .source {
     text-align: right;
     font-style: italic;
+}
+@media (max-width: 1200px) {
+    blockquote {
+        margin: 30px 40px;
+    }
+}
+@media (max-width: 800px) {
+    header, article {
+        width: 75%;
+    }
+    blockquote {
+        margin: 30px 20px;
+    }
+}
+@media (max-width: 480px) {
+    header, article {
+        width: 95%;
+    }
+    blockquote {
+        margin: 30px 0;
+    }
 }
