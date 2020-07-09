@@ -2,7 +2,7 @@
 date: '2020-07-07'
 layout: post
 summary: ''
-title: Failure: tests and gifts
+title: 'Failure: tests and gifts'
 ---
 
 I wrote most this post on 2020-06-27, and then avoided reading it and thinking about it for the next ten days.
