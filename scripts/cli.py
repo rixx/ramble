@@ -118,6 +118,7 @@ def create_post():
             message="When do you want to publish it?",
             choices=[("yesterday", -1), ("today", 0), ("tomorrow", 1)],
             carousel=True,
+            default=0,
         ),
         inquirer.List(
             "related",
