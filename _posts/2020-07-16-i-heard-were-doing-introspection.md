@@ -32,10 +32,10 @@ handful of languages can really relate to how hexameters work because they are n
 based, ha!). You're warned, all five readers of this site.
 
 One problem with that, of course, is that my English is shoddy and being creative and weird in a language you're not
-good at is *hard*. Have you ever learnt a new keyboard layout? Being creative in English feels exactly like that: I
-remember being good (or at least fast) at this, I know what fluency feels like, but I cannot access it and instead have
-to muddle around in this mongrel excuse for a language that takes indecent pride in losing all semblance of a proper
-grammar in exchange for frustrating spelling and a vocabulary that etc etc.
+good at is *hard*. Have you ever learnt a new keyboard layout? Being creative in English is exactly like that: I know
+what effortless fluency feels like, but I cannot access it and instead have to muddle around in this mongrel excuse for
+a language that takes indecent pride in losing all semblance of a proper grammar in exchange for frustrating spelling
+and a vocabulary that etc etc.
 
 Not sure if that means that I'll post the occasional German post or that I'll have to figure out how to write English
 hexameters, but something's gotta give.
