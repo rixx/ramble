@@ -17,14 +17,14 @@ since I don't really advertise this site, or at least individual posts, I can fe
 to read them. Hi, that's you!
 
 So what's the ambivalence? Well, this started as a daily-ish writing place, and I tend to leave long gaps in between
-writing spurts. That feels like failing to achieve a goal, which results in some low-key guilt and some less low-key
+writing spurts. That feels like failing to achieve a goal, which results in some low-key guilt and less low-key
 pressure. Nothing terrible, nothing that needs to be resolved right away, but something that could be better.
 
 I've been thinking about that a bit today, in my odd, non-verbal, not-really-thinking way, and have come to the
 conclusion that more weirdness is in order. I hereby formally drop the idea of daily posts – screw that, it's not going
 to work, anyways. Instead, I'll aim at frequent posts, and will allow any content instead of sticking with this run on
 sentences inducing format that is probably best described as "diary of an emotional debugger". I did a bit of that in
-[Just Add Water](https://ramble.rixx.de/2020/06/19/just-add-water.html) which turned out into a fairly bad post, but one
+[Just Add Water](https://ramble.rixx.de/2020/06/19/just-add-water.html) which turned out a fairly bad post, but one
 that was very entertaining to write.
 
 So I may write drafts for future Twitter threads, or enthuse about weird language or history things, or how only a
