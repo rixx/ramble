@@ -68,9 +68,9 @@ kingdom, so that's an easy promise, but you never know!)
 ### Post 4
 
 Okay, next city. Bigger than the last, close to the, uhm, Big River. Yes. Let's call it that. I was super hungry, and
-since the food was way too salty (home sweet home), I just had to drink some wine. I missed the wine. It looks golden in
-the traditional green glass, and it's so easy to drink just one more glass. And one more. And then you feel magically
-compelled to walk the city, especially the old town.
+since the food was way too salty (home sweet home), I just had to drink some wine. I have missed the wine. It looks
+golden in the traditional green glass, and it's so easy to drink just one more glass. And one more. And then you feel
+magically compelled to walk the city, especially the old town.
 
 The old stone houses are looking at me, as if they were itching to tell me of old legends, of knights and monks and
 betrayal and victory. People and books were burnt at the stake here, while the church bells urged them on. Stupidity and
@@ -139,10 +139,11 @@ can soar everywhere, and even the gods will avoid you when you draw near – *th
 So obviously, my strange journey through the city continued in this dream. I was super tired, but the hooded man
 continued to follow me. Suddenly my heart was cut open, but it didn't hurt, and I sometimes absently marked a door with
 the blood by walking past. And every time I did that, a bell rang, and in the dream I knew that somebody had died.
+Creepy, ikr?
 
 So we walked around for a while, and it got darker and darker, until we got back to the cathedral. Its doors were wide
-open (of course), so we stepped inside. Apart from some candles it was extremely dark in there, like death and night and
-silence had turned up for a meeting. After walking around in this monstrously huge church for a while, we found a chapel
+open (of course), so we stepped inside. Apart from some candles it was extremely dark in there, like Death and Night and
+Silence had turned up for a meeting. After walking around in this monstrously huge church for a while, we found a chapel
 that was bright and shining, and the Three Wise Men (who might be statues in there usually, I think?) were alive and
 sitting around.
 
