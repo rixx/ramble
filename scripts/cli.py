@@ -94,7 +94,6 @@ def create_post():
         carousel=True,
     )
     prompts = get_prompts()
-    prompt_choice = None
     while not prompt_choice:
         if prompt_choice is False:
             click.echo(click.style("Random prompt:", bold=True))
