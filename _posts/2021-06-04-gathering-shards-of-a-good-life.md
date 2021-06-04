@@ -1,9 +1,11 @@
 ---
-date: '2021-06-03'
+date: '2021-06-04'
 layout: post
 summary: ''
 title: Shards of a good life
 ---
+
+*(now with fixed formatting)*
 
 Ἐν ἀρχῇ ἦν ἡ εἰκών<br>
 But we can only see it through a glass (yes, darkly)<br>
