@@ -151,3 +151,5 @@
 - find your values by applying adverbs. (maybe just "on adverbs")
 - "forgive yourself" in meditation is a meh frame (as per https://twitter.com/visakanv/status/1263643405780832257),
   opposed to the much stronger "nice, good job, I noticed a distraction, sick work yo"
+- cases for AND AGAINST setting up a regular free slot publicly bookable in your calendar to talk to people
+  like free consulting or sth https://daedtech.com/check-out-this-one-weird-trick-for-entrepreneurial-success/
