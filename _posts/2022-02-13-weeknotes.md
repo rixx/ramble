@@ -2,7 +2,7 @@
 date: '2022-02-13'
 layout: post
 summary: ''
-title: Weeknotes for February 7th – February 13th: light mode, then nothing
+title: Weeknotes for February 7th – February 13th. Light mode, then nothing
 ---
 
 After last week, where I was feeling slow and brain-foggy (mostly due to a cold), this week I got two or three decent
