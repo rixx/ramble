@@ -21,6 +21,8 @@ Catholicism), so I'll skip the rehashing. However, I was surprised to find out t
 [reviewed](https://epistleofdude.wordpress.com/2018/11/17/c-s-lewis-reviews-the-lord-of-the-rings/) the first two parts
 of the Lord of the Ring. Jumbled thoughts to follow.
 
+I should probably link to my [book site](https://books.rixx.de/j-r-r-tolkien/the-lord-of-the-rings/) here.
+
 ### Review the first
 
 Lewis references a ton of things that I did not know and that I spent a very enjoyable lazy Saturday looking into. He
