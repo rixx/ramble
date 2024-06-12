@@ -46,7 +46,8 @@ header, article {
     min-width: 300px;
 }
 article {
-    padding-bottom: 100px
+    padding-bottom: 100px;
+    position: relative;
 }
 article h2 {
     font-weight: normal;
@@ -91,6 +92,14 @@ blockquote {
     text-align: right;
     font-style: italic;
 }
+@media (min-width: 800px) {
+    h5 {
+        position: absolute;
+        right: -150px;
+        width: 120px;
+        margin-top: 20px;
+    }
+}
 @media (max-width: 1200px) {
     blockquote {
         margin: 30px 40px;
@@ -102,6 +111,10 @@ blockquote {
     }
     blockquote {
         margin: 30px 20px;
+    }
+    h5 {
+        margin: 1em 0 0 0;
+        font-style: italic;
     }
 }
 @media (max-width: 480px) {
