@@ -5,14 +5,6 @@ summary: ''
 title: 'From the tab archives: Lewis on Tolkien'
 ---
 
-### Series announcement: From the tab archives
-
-Some entries in my near-infinite tab list are open because there's something I have to do, others out of laziness. But
-no small amount of them hangs around because they deserve some attention. Of these, some could just be sent to a friend
-or dropped on social media with a clever remark. But many deserve more than some rapid read-fire-forget; they call for
-processing and rephrasing and actual, honest-to-god retention. These will end up here, on a blog nobody reads, but that
-may serve as reference material just in case of future need.
-
 ## Lewis on Tolkien
 
 At this point, we all know about Mr Narnia and Mr Middle-Earth and their Inkling- and religion shaped friendship, what
